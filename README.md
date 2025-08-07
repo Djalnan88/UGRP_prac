@@ -1,17 +1,9 @@
 # UGRP_prac
 
-## 윤우성 수정 사향(7/23)
-- LSTM_latest.ipynb 다 돌아간거 확인하고 push
-- RF_latest.ipynb 연구실 컴에서 다시 돌리고 push
-- compare_latest 수정 및 실행 push
-- 결론적으로 코드 관련 부분은 ZeroDay 빼고는 완료가 된 상황
-
-## 휘성아 이거 해줘(7/23)
-- 연구실에서 돌리면서 RF 결과가 좀 달라졌음.(최적 파라미터, 정확도 수치 같은 것들) 이거만 좀 수정 부탁
-- LSTM 보고서 작성 및 나한테 연락(못 미더운게 아니라 확인용인거 아시죵...?)
-
-
-## 이휘성 해야할것
-- LSTM 제대로 돌아갔는지 확인
-- ROC curve 그리기
-- LSTM 보고서 작성
+- Autoencoder.ipynb: zero-day 이후, 오토인코더만 따로 돌린 코드
+- compare_models_latest.ipynb: 학습된 rf/lstm에 대한 분석용 코드
+- for_ZeroDay.ipynb: zero-day 공격을 가정한 rf/lstm/autoencoder 코드
+- LSTM_2nd.ipynb: 시계열 데이터 전처리를 포함한 2번째 lstm
+- LSTM_latest.ipybn: 시계열 데이터 전처리 이전의 lstm
+- RF_latest.ipynb: 가장 첫 과제에서의 rf
+- RF_test.ipynb: 전체 데이터셋을 대상으로 하는 rf
