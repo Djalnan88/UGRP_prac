@@ -6,4 +6,4 @@
 - LSTM_2nd.ipynb: 시계열 데이터 전처리를 포함한 2번째 lstm
 - LSTM_latest.ipybn: 시계열 데이터 전처리 이전의 lstm
 - RF_latest.ipynb: 가장 첫 과제에서의 rf
-- RF_test.ipynb: 전체 데이터셋을 대상으로 하는 rf
+- RF_test.ipynb: 기존에 학습시킨 rf에서 zero day 공격에 대한 결과
