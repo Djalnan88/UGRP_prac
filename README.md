@@ -8,4 +8,5 @@
 - LSTM_latest.ipybn: 시계열 데이터 전처리 이전의 lstm
 - RF_latest.ipynb: 가장 첫 과제에서의 rf
 - RF_test.ipynb: 기존에 학습시킨 rf에서 zero day 공격에 대한 결과
-- RF_Zeroday.ipynb: 
+- RF_Zeroday.ipynb: 제로데이 공격을 가정한 rf 코드
+- LSTM_Zeroday.ipynb: 제로데이 공격을 가정한 lstm 코드
